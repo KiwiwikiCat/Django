@@ -1,0 +1,13 @@
+#install Django model in Python
+#安裝Django模組在Python
+pip install Django
+
+
+#found a new folder(e.g. Django) in C:\ or D:\
+#
+cd C:\Django
+cd/d D:\Django
+
+#found a project
+#
+
